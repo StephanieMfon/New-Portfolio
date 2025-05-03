@@ -18,37 +18,40 @@ const PortfolioVideoSlider = () => {
   const projects = [
     {
       id: 1,
-      videoUrl: itechhire,
+      videoUrl:
+        'https://res.cloudinary.com/daqqc2etr/video/upload/v1746311139/itechhire_hvkfnu.mp4',
       title: 'HR/Recruitment Platform',
       description: 'Streamlining hiring/project management processes',
     },
     {
       id: 2,
-      videoUrl: oxymon,
+      videoUrl: 'https://res.cloudinary.com/daqqc2etr/video/upload/v1746311074/Oxymon_xvpbwm.mp4',
       title: 'Financial Management System',
       description: 'Simplifying financial management for businesses and individuals',
     },
     {
       id: 3,
-      videoUrl: onedoc1,
+      videoUrl:
+        'https://res.cloudinary.com/daqqc2etr/video/upload/v1746311035/actual-onedoc-ai1_u6dpqm.mp4',
       title: 'Slide deck creation',
       description: 'Creating stunning presentations with ready to use templates',
     },
     {
       id: 6,
-      videoUrl: kemdiattire,
+      videoUrl:
+        'https://res.cloudinary.com/daqqc2etr/video/upload/v1746311131/compressed1_pab0om.mp4',
       title: 'AI Measurement Assistant',
       description: 'Revolutionizing fashion with AI-driven measurements',
     },
     {
       id: 4,
-      videoUrl: onedoc2,
+      videoUrl: 'https://res.cloudinary.com/daqqc2etr/video/upload/v1746311113/onedoc1_ig5trf.mp4',
       title: 'Slide deck creation',
       description: 'Creating stunning presentations with ready to use templates',
     },
     {
       id: 5,
-      videoUrl: onedoc3,
+      videoUrl: 'https://res.cloudinary.com/daqqc2etr/video/upload/v1746311073/onedoc3_ozha0y.mp4',
       title: 'Slide deck creation',
       description: 'Creating stunning presentations with ready to use templates',
     },
