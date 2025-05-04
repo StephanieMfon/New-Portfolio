@@ -122,7 +122,7 @@ const experiences: TExperience[] = [
     // TODO: Add unhcr Icon
     icon: unhcr,
     iconBg: '#383E56',
-    date: 'May 2024 - Present ',
+    date: 'April 2024 - Present ',
     link: 'https://www.unhcr.org/',
     points: [
       'Utilized cloud services and tools including AWS, Cloud Foundry. CDN’s (Cloudflare), CMS’s (Drupal and Wordpress) and headless CMS’s (Webiny) for creating secure sites and services which led to 35% reduction in deployment time.',
@@ -149,7 +149,7 @@ const experiences: TExperience[] = [
     companyName: 'KemdiAttire',
     icon: kemdi_logo,
     iconBg: '#383E56',
-    date: '2023 - June 2024 ',
+    date: 'December 2023 - June 2024 ',
     link: 'https://www.kemdiattire.com/',
     points: [
       'Optimized backend architecture using TypeScript and NestJS, enhancing application scalability and performance.',
